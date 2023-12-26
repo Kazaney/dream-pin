@@ -1,0 +1,8 @@
+main: "cc.dreamcode.pin.BukkitPinPlugin"
+version: "1.0-InDEV"
+name: "Dream-Pin"
+description: "Dream-Pin plugin written by dreamcode.cc"
+website: "https://dreamcode.cc"
+author: "Kazaney"
+prefix: "Dream-Pin-Bukkit"
+api-version: 1.13
