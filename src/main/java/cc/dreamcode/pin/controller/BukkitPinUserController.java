@@ -37,6 +37,7 @@ public class BukkitPinUserController implements Listener {
         e.setCancelled(true);
         this.messageConfig.interactionBlockedMessage.send(player);
     }
+    
     @EventHandler(ignoreCancelled = true)
     public void onPlayerChat(final AsyncPlayerChatEvent e) {
 
